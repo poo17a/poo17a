@@ -37,14 +37,6 @@ I enjoy building **end-to-end AI solutions**, from data ingestion and modeling t
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **AI Job Recommender System (GenAI + APIs)**
-- 🔹 **End-to-End Chest Cancer Classification (MLflow + DVC)**
-- 🔹 **Machine Learning & Data Analysis Projects**
-- 🔹 **Power BI Dashboards & SQL Analytics**
-
----
-
 ## 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/pooja-singh-b11b35208">
